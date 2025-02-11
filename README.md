@@ -101,5 +101,3 @@ plt.show()
 ```
 
 ---
-
-Isso cobre as análises solicitadas! Se precisar de ajustes ou mais gráficos, posso ajudar.
