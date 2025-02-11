@@ -14,7 +14,7 @@ pip install pandas matplotlib
 import pandas as pd
 
 # Carregar o arquivo CSV
-file_path = "caminho_para_o_arquivo/captura.csv"
+file_path = "/content/captura.csv"
 df = pd.read_csv(file_path)
 
 # Visualizar as primeiras linhas para entender a estrutura
